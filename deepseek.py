@@ -21,3 +21,5 @@ print("Adglobal queen one and only")
 print("Queen Data Analyst")
 
 print("Heroine of the Hakudo")
+
+print("Mahima best friend of kalyani")
